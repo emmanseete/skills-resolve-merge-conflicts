@@ -1,3 +1,3 @@
 # References
 
-* octopussy 1 🐞
+* octocat 1 😈
